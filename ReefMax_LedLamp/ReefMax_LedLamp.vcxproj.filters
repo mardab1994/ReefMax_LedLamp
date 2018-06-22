@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="ReefMax_LedLamp.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.ReefMax_LedLamp.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
